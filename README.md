@@ -15,6 +15,8 @@ This schematic was tested on several production boards, also in your implementat
 
 # Recomended Footprint
 
+![Alt text](images/recomended_footprint.png?raw=true "Footprint")
+
 # Including design files
 
 - Gerber Files for fast manufacturing with this parameters:
